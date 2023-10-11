@@ -10,3 +10,4 @@ https://velog.io/@phobos90/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EB%AC%B8%EB%B2%9
 
 뱃지추가
 .[배지달기 (언어, 기술, 개발도구, 자격).].(https://simpleicons.org).
+``` 배지 샘플 <img src="img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white">```
